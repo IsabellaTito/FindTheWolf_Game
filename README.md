@@ -36,20 +36,23 @@ Para concluir a disciplina de Programação Orientada a Objetos (POO), do curso 
 As telas abaixo são, respectivamente, o menu e a tela do jogo. Para poder movimentar o cursor, tanto para navegar no menu quanto durante o jogo, use as teclas <kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd>. Para selecionar um campo basta apertar <kbd>X</kbd>. Quando estiver no jogo, para receber a dica do guru, seleciona o personagem que deseja, posicionando o cursor em cima dele, e aperte <kbd>X</kbd>. Quando estiver decidido sobre qual aldeão quer retirar da vila, aperte <kbd>E</kbd>. Se estiver no meio de uma partida e desejar sair antes do jogo terminar, basta apertar <kbd>Q</kbd> que voltará ao menu inicial. <br>  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ededc5bb-79b7-4ef5-bf19-2b702dddedb6" alt="Tela de menu do jogo" width=500px/>
-  <img src="https://github.com/user-attachments/assets/0ab73384-a59c-4771-bed5-0fefea2273a4" alt="Tela do jogo" width=500px />
+  <img src="https://github.com/user-attachments/assets/ededc5bb-79b7-4ef5-bf19-2b702dddedb6" alt="Tela de menu do jogo" width=400px/>
+  <img src="https://github.com/user-attachments/assets/0ab73384-a59c-4771-bed5-0fefea2273a4" alt="Tela do jogo" width=400px />
 </p>
 
 Para ficar mais claro, aqui está um exemplo de uma partida de Find The Wolf. Agora você vai estar mais do que preparado para defender o vilarejo do ataque dos lobos. Espero que goste do jogo.<b> Boa sorte!! </b>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/8e886837-b267-4eb2-a755-392ad20e31db" width="730"/>
+<img src="https://github.com/user-attachments/assets/8e886837-b267-4eb2-a755-392ad20e31db" width="650"/>
 </p>
 <p align="center">
 <b>
 Outros jogos muito interessantes foram criados pelos demais alunos. Ficou curioso???😌 No youtube você pode ver um pouco de cada um dos jogos!!
 <p align="center">
-    <a href="https://www.youtube.com/watch?v=dIBq-FbOSdk">Gameplay no YouTube ▶️</a>
+    <a href="https://youtu.be/5Rc2uHhRoGU?si=msoRH9ABCyQYOQqD">Gameplay Find The Wolf▶️</a>
+</p>
+<p align="center">
+    <a href="https://youtu.be/uR1Y98-nJjo?si=zb2ccoJxM3dUGWsF">Gameplay Turma 2024.2▶️</a>
 </p>
 </b>
 </p>
